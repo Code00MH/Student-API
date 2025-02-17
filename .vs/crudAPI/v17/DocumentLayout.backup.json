@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\web api\\crudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\student-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\web api\\crudapi\\studentroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\student-api\\studentroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|solutionrelative:studentroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\\u00E1rea de trabalho\\web api\\crudapi\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|c:\\users\\mateu\\onedrive\\documentos\\github\\student-api\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{137E9B01-728A-4974-B935-922D81831914}|crudAPI.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,35 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\Student.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:25:51.441Z"
+              "WhenOpened": "2025-02-17T18:03:09.606Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "StudentRoute.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\StudentRoute.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\StudentRoute.cs",
               "RelativeDocumentMoniker": "StudentRoute.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\StudentRoute.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\StudentRoute.cs",
               "RelativeToolTip": "StudentRoute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-14T19:24:42.17Z"
+              "WhenOpened": "2025-02-17T18:02:04.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\mateu\\OneDrive\\\u00C1rea de Trabalho\\WEB API\\crudAPI\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABTAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive\\Documentos\\GitHub\\Student-API\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T18:33:25.023Z",
               "EditorCaption": ""

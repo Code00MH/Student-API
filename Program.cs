@@ -22,6 +22,6 @@ app.UseHttpsRedirection();
 //para criação do nosso endpoint, prossiga com app.map (neste caso, é o GET)
 //app.MapGet("Hello World", () => "Hello World"); //perceba que passei o parâmetro "Hello World", e retornei a função "Hello World" com () =>
 
-app.AddStudent();
+app.AddStudent(); 
 app.Run();
 
