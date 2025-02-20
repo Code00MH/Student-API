@@ -2,7 +2,7 @@
   {
     "ContainingType": "crudAPI.StudentRoute\u002B\u003C\u003Ec",
     "Method": "\u003CAddStudent\u003Eb__0_0",
-    "RelativePath": "StudentTest",
+    "RelativePath": "student",
     "HttpMethod": "GET",
     "IsController": false,
     "Order": 0,
